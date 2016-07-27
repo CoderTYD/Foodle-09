@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21AB24D5C994CB89470530C55DEA72AFE65B6941",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21AB24D5C994CB89470530C55DEA72AFE65B6941" : 0,
+    "49C71DE3350CF4EDA32CA6C27E1A17ABD230C7C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D4FABE0D-2EFB-49CE-BD68-FC003CBBB7BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21AB24D5C994CB89470530C55DEA72AFE65B6941" : "CoderTYD\/",
+    "49C71DE3350CF4EDA32CA6C27E1A17ABD230C7C7" : "Foodie%E9%A1%B9%E7%9B%AE\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Foodie",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Foodie.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CoderTYD\/Foodle-09.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21AB24D5C994CB89470530C55DEA72AFE65B6941"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CoderTYD\/Foodie.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49C71DE3350CF4EDA32CA6C27E1A17ABD230C7C7"
+    }
+  ]
+}
